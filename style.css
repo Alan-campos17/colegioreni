@@ -3,4 +3,6 @@ h1{
 }
 img{
     width: 50px;
+    display: block;
+    margin: auto;
 }
